@@ -1,3 +1,4 @@
+require 'dogs'
 require "spec_helper"
 
 describe DogHTMLPage do
